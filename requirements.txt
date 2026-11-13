@@ -1,0 +1,10 @@
+streamlit
+ollama
+python-dotenv
+supabase
+pandas
+numpy
+PyMuPDF
+python-docx
+reportlab
+Pillow
