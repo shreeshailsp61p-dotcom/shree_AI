@@ -1,4 +1,7 @@
 # Shree AI – AI-Powered Career Preparation Platform
+<p align="center">
+  <img src="assets/images/shree_ai_banner.png" width="100%" alt="Shree AI Banner">
+</p>
 
 Shree AI is an AI-powered career preparation platform built using Python and Streamlit. It helps students and job seekers prepare for their careers through intelligent tools for resume analysis, ATS checking, interview practice, and AI assistance.
 
