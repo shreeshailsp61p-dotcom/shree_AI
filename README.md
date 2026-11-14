@@ -132,3 +132,20 @@ GitHub: [shreeshailsp61p-dotcom](https://github.com/shreeshailsp61p-dotcom)
 ---
 
 *Shree AI – Your intelligent companion for career preparation.*
+
+## 📸 Project Screenshots
+
+### 1. AI Chat
+![AI Chat](assets/screenshots/ai_chat.png)
+
+### 2. Resume Analyzer
+![Resume Analyzer](assets/screenshots/resume_analyzer.png)
+
+### 3. ATS Score Checker
+![ATS Score Checker](assets/screenshots/ats_checker.png)
+
+### 4. Smart Resume Builder
+![Smart Resume Builder](assets/screenshots/resume_builder.png)
+
+### 5. AI Mock Interview
+![AI Mock Interview](assets/screenshots/mock_interview.png)
